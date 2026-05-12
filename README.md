@@ -5,7 +5,7 @@
 
 <!-- 👋 INTRO -->
 <h1 align="center">Hi 👋, I'm Moustafa Tlais</h1>
-<h3 align="center">🚀 Frontend Team Lead | Full-Stack Engineer | 🚑 Medic</h3>
+<h3 align="center">🚀 Frontend Team Lead | Full-Stack Engineer </h3>
 
 <!-- ⚡ TYPING ANIMATION -->
 <p align="center">
@@ -14,197 +14,128 @@
 
 <br/>
 
-<!-- ══════════════════════════════════════════ ROW 1 ══════════════════════════════════════════ -->
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-<tr valign="top">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 🧠 ABOUT ME -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td>
-<h3>🧠 About Me</h3>
-💼 Frontend Team Lead with strong full-stack experience <br/>
-⚡ Specialized in <b>Next.js, React, TypeScript, Tailwind</b> <br/>
-🧩 Building complex systems (ERP, POS, real-time apps) <br/>
-🚑 Also working as a Medic / Ambulance Driver —<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;discipline &amp; responsibility in action <br/>
-🌱 Currently learning <b>NestJS &amp; system architecture</b> <br/>
-🤝 Open to collaboration on impactful projects
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
+<h2 align="center">🧠 About Me</h2>
+<br/>
+<p align="center">
+  💼 Frontend Team Lead with strong full-stack experience<br/><br/>
+  ⚡ Specialized in <b>Next.js · React · TypeScript · Tailwind</b><br/><br/>
+  🧩 Building complex systems — ERP, POS & real-time apps<br/><br/>
+  🌱 Currently diving deeper into <b>NestJS & system architecture</b><br/><br/>
+  🤝 Open to collaboration on impactful, well-crafted projects
+</p>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 🚀 CURRENT PROJECT -->
-<td width="34%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td align="center">
-<h3>🚀 Current Project</h3>
-<p><b>🔭 Working on SaaS Platform</b></p>
+<h2 align="center">🚀 Current Project</h2>
 <br/>
-<a href="https://dev.everythingkids.com.au">
-  <img src="https://img.shields.io/badge/%F0%9F%91%89%20dev.everythingkids.com.au-7C3AED?style=for-the-badge&logoColor=white"/>
-</a>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
+<p align="center">
+  🔭 Currently working on a SaaS Platform<br/><br/>
+  <a href="https://dev.everythingkids.com.au">
+    <img src="https://img.shields.io/badge/%F0%9F%91%89%20dev.everythingkids.com.au-7C3AED?style=for-the-badge&logoColor=white"/>
+  </a>
+</p>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 🛠️ TECH STACK -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td>
-<h3>🛠️ Tech Stack</h3>
-🖥️ <b>Frontend</b><br/>
-<img src="https://img.shields.io/badge/React-163050?style=flat-square"/>
-<img src="https://img.shields.io/badge/Next.js-163050?style=flat-square"/>
-<img src="https://img.shields.io/badge/TypeScript-163050?style=flat-square"/>
-<img src="https://img.shields.io/badge/Tailwind-163050?style=flat-square"/>
-<img src="https://img.shields.io/badge/Redux-163050?style=flat-square"/>
-<img src="https://img.shields.io/badge/Zustand-163050?style=flat-square"/>
-<br/><br/>
-⚙️ <b>Backend</b><br/>
-<img src="https://img.shields.io/badge/Node.js-14331a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Express-14331a?style=flat-square"/>
-<img src="https://img.shields.io/badge/NestJS-14331a?style=flat-square"/>
-<img src="https://img.shields.io/badge/PHP-14331a?style=flat-square"/>
-<img src="https://img.shields.io/badge/Laravel-14331a?style=flat-square"/>
-<br/><br/>
-🗄️ <b>Databases</b><br/>
-<img src="https://img.shields.io/badge/MongoDB-0d2e3a?style=flat-square"/>
-<img src="https://img.shields.io/badge/MySQL-0d2e3a?style=flat-square"/>
-<img src="https://img.shields.io/badge/SQLite-0d2e3a?style=flat-square"/>
-<img src="https://img.shields.io/badge/PostgreSQL-0d2e3a?style=flat-square"/>
-<br/><br/>
-🔧 <b>Tools</b><br/>
-<img src="https://img.shields.io/badge/Git-3a2800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Docker-3a2800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Firebase-3a2800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Postman-3a2800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Figma-3a2800?style=flat-square"/>
-<img src="https://img.shields.io/badge/Electron-3a2800?style=flat-square"/>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
-
-</tr>
-</table>
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td height="5"></td></tr></table>
-
-<!-- ══════════════════════════════════════════ ROW 2 ══════════════════════════════════════════ -->
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-<tr valign="top">
-
-<!-- 🌐 CONNECT WITH ME -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="1" cellspacing="0"><tr><td align="center">
-<h3>🌐 Connect With Me</h3>
+<h2 align="center">🛠️ Tech Stack</h2>
 <br/>
-<a href="https://github.com/moustafa1993">
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-</a>&nbsp;
-<a href="https://www.linkedin.com/in/moustafa-tlais-616295153">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>&nbsp;
-<a href="https://twitter.com/moustafa1993">
-  <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
-</a>&nbsp;
-<a href="mailto:moustafa.a.tlais@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45"/>
-</a>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
 
-<!-- 📊 GITHUB STATS -->
-<td width="34%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td align="center">
-<h3>📊 GitHub Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=moustafa1993&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%"/>
+<p align="center">🖥️ <b>Frontend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&theme=dark" />
+</p>
+
+<p align="center">⚙️ <b>Backend</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,php,laravel&theme=dark" />
+</p>
+
+<p align="center">🗄️ <b>Databases</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres&theme=dark" />
+</p>
+
+<p align="center">🔧 <b>Tools & DevOps</b></p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,firebase,postman,figma,electron&theme=dark" />
+</p>
+
 <br/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moustafa1993&theme=tokyonight&hide_border=true" width="100%"/>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- 🧩 WHAT I BUILD -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td>
-<h3>🧩 What I Build</h3>
-🏢 <b>ERP Systems</b><br/>
-<small>Streamlining business operations with robust ERP solutions</small><br/><br/>
-☕ <b>POS &amp; Management Systems</b><br/>
-<small>Building powerful POS &amp; management systems</small><br/><br/>
-🌐 <b>Scalable SaaS Platforms</b><br/>
-<small>Multi-tenant, secure &amp; scalable SaaS applications</small><br/><br/>
-⚡ <b>Real-time Applications</b><br/>
-<small>WebSocket-based, real-time collaboration &amp; live systems</small><br/><br/>
-🎨 <b>Modern UI/UX Systems</b><br/>
-<small>Responsive, accessible &amp; beautiful user experiences</small>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
-
-</tr>
-</table>
-<table width="100%" cellpadding="0" cellspacing="0"><tr><td height="5"></td></tr></table>
-
-<!-- ══════════════════════════════════════════ ROW 3 ══════════════════════════════════════════ -->
-<table width="100%" border="0" cellspacing="5" cellpadding="0">
-<tr valign="top">
-
-<!-- 👀 PROFILE VIEWS -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td align="center">
-<h3>👀 Profile Views</h3>
+<h2 align="center">🧩 What I Build</h2>
 <br/>
-<img src="https://profile-counter.glitch.me/moustafa1993/count.svg"/>
-<br/><br/>
-<i>Thanks for stopping by! 😊</i>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
+<p align="center">
+  🏢 <b>ERP Systems</b><br/>
+  <sub>Streamlining business operations with robust ERP solutions</sub>
+  <br/><br/>
+  ☕ <b>POS & Management Systems</b><br/>
+  <sub>Building powerful point-of-sale & management tools</sub>
+  <br/><br/>
+  🌐 <b>Scalable SaaS Platforms</b><br/>
+  <sub>Multi-tenant, secure & scalable SaaS applications</sub>
+  <br/><br/>
+  ⚡ <b>Real-time Applications</b><br/>
+  <sub>WebSocket-based, real-time collaboration & live systems</sub>
+  <br/><br/>
+  🎨 <b>Modern UI/UX Systems</b><br/>
+  <sub>Responsive, accessible & beautiful user experiences</sub>
+</p>
 
-<!-- ⚡ TOP LANGUAGES -->
-<td width="34%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td align="center">
-<h3>⚡ Top Languages</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moustafa1993&layout=compact&theme=tokyonight&hide_border=true" width="100%"/>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
-
-<!-- 💡 PHILOSOPHY -->
-<td width="33%">
-<table width="100%" bgcolor="#30363d" cellpadding="1" cellspacing="0"><tr><td>
-<table width="100%" bgcolor="#0d1117" cellpadding="20" cellspacing="0"><tr><td align="center">
-<h3>💡 Philosophy</h3>
 <br/>
-<p><i>"Clean code. Real-world solutions. Performance first."</i></p>
-</td></tr>
-</table>
-</td></tr>
-</table>
-</td>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-</tr>
-</table>
+<!-- 📊 GITHUB STATS -->
+<h2 align="center">📊 GitHub Stats</h2>
+<br/>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=moustafa1993&theme=tokyonight" height="170"/>
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=moustafa1993&theme=tokyonight" height="170"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=moustafa1993&theme=tokyonight&hide_border=true" width="65%"/>
+</p>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- 🌐 CONNECT WITH ME -->
+<h2 align="center">🌐 Connect With Me</h2>
+<br/>
+<p align="center">
+  <a href="https://github.com/moustafa1993">
+    <img src="https://skillicons.dev/icons?i=github" height="48"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/moustafa-tlais-616295153">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48"/>
+  </a>&nbsp;&nbsp;
+  <a href="https://twitter.com/moustafa1993">
+    <img src="https://skillicons.dev/icons?i=twitter" height="48"/>
+  </a>&nbsp;&nbsp;
+  <a href="mailto:moustafa.a.tlais@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48"/>
+  </a>
+</p>
+
+<br/>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<!-- 👀 PROFILE VIEWS & 💡 PHILOSOPHY -->
+<br/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=moustafa1993&color=7C3AED&style=flat-square&label=Profile+Views"/>
+</p>
+<p align="center"><sub>Thanks for stopping by! 😊</sub></p>
+<br/>
+<p align="center">
+  <i>"Clean code. Real-world solutions. Performance first."</i>
+</p>
